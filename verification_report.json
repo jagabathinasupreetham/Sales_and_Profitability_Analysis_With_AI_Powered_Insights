@@ -1,0 +1,61 @@
+{
+  "dataset_shape": [
+    51290,
+    23
+  ],
+  "columns": [
+    "row_id",
+    "order_id",
+    "order_date",
+    "ship_date",
+    "ship_mode",
+    "customer_id",
+    "customer_name",
+    "segment",
+    "city",
+    "state",
+    "country",
+    "market",
+    "region",
+    "product_id",
+    "category",
+    "sub-category",
+    "product_name",
+    "sales",
+    "quantity",
+    "discount",
+    "profit",
+    "shipping_cost",
+    "order_priority"
+  ],
+  "total_sales": 12642501.90988,
+  "profit_by_category": [
+    {
+      "category": "Technology",
+      "value": 663778.73318
+    },
+    {
+      "category": "Office Supplies",
+      "value": 518473.8343
+    },
+    {
+      "category": "Furniture",
+      "value": 285204.7238
+    }
+  ],
+  "monthly_trend_2014_verification": {
+    "question": "Show the monthly sales trend for 2014",
+    "action": "monthly_trend",
+    "filter": {
+      "order_date": "2014"
+    },
+    "rows_used": 17531,
+    "months_returned": 12,
+    "first_month": "2014-01",
+    "first_month_sales": 241268.55566,
+    "last_month": "2014-12",
+    "last_month_sales": 503143.69348,
+    "total_sales_2014": 4299865.87056,
+    "note": "Verified locally against bundled dataset; this does not verify live Sarvam API behavior."
+  }
+}
