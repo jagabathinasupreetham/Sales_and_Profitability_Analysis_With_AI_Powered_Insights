@@ -112,8 +112,8 @@ Supported questions depend on the current implementation.
 
 Add screenshots to a folder such as `screenshots/`, then update these paths:
 
-- Tableau dashboard: `screenshots/tableau-dashboard.png`
-- Chatbot interface: `screenshots/chatbot.png`
+- Tableau dashboard: `tableau_dashboard.png`
+- Chatbot interface: `chatbot_interface.png`
 
 Embed them in this README using:
 
