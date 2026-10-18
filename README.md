@@ -118,9 +118,9 @@ Add screenshots to a folder such as `screenshots/`, then update these paths:
 Embed them in this README using:
 
 ```markdown
-![Tableau dashboard](screenshots/tableau-dashboard.png)
+![Tableau dashboard](tableau_dashboard.png)
 
-![Chatbot interface](screenshots/chatbot.png)
+![Chatbot interface](chatbot_interface.png)
 ```
 
 ## Dataset
