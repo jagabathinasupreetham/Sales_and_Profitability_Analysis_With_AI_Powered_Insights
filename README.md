@@ -109,9 +109,6 @@ The test suite previously completed with **44 passing tests** in the development
 Supported questions depend on the current implementation.
 
 ## Screenshots
-
-Add screenshots to a folder such as `screenshots/`, then update these paths:
-
 - Tableau dashboard: `tableau_dashboard.png`
 - Chatbot interface: `chatbot_interface.png`
 
